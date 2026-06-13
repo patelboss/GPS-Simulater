@@ -1,6 +1,7 @@
 {
-  "versionCode": 1.0,
-  "isForce": false,
+  "versionCode": 2,
+  "versionName" : 1.2,
+  "isForce": true,
   "downloadUrl": "https://github.com/patelboss/GPS-Simulater/releases/download/v2.0/wallpaper.png",
   "message": "New features added! Please update to continue."
 }
